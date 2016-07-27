@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
     # const vars
     step_size = 0.0025
-    step_limit = 2
+    step_limit = 4
 
     # debug vars, used to test slack integration w/o waiting
     use_cache = False
